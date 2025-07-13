@@ -1,5 +1,4 @@
-path: ../yolo/visdrone
-train: images
-val: images
+train: ../yolo/visdrone/train/images
+val: ../yolo/visdrone/val/images
 names:
   0: person 
