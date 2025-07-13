@@ -1,0 +1,1 @@
+print('Download the Okutama dataset from https://github.com/miquelmarti/Okutama-Action or https://www.okutama-segmentation.org/ and place it in data/okutama') 

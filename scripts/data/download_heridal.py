@@ -1,0 +1,1 @@
+print('Download the HERIDAL dataset from https://www.heridal.org/ and place it in data/HERIDAL') 
